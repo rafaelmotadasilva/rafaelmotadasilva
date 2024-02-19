@@ -1,12 +1,12 @@
-### Hi there 👋
+Olá! 👋
 
-I'm a self-taught passionate IT Infrastructure Analyst from Brazil 🇧🇷
+Sou um Analista de Infraestrutura autodidata e apaixonado por Linux.
 
-**About me**
+Sobre mim:
 
-- 🔭 I’m currently working as an IT Infrastructure Analyst.
-- 🌱 I’m currently learning Linux, Git, Vagrant, Ansible, Docker, Cloud, CI/CD, Terraform and Kubernets.
-- ❤️️ Fun fact: Some of my hobbies are riding a motorcycle, drinking wine and special coffees.  
+🔭 Atualmente, estou atuando como Analista de Infraestrutura de TI.
+🌱 Estou em constante busca por conhecimento e me aprimorando nas áreas de Linux, Git, Vagrant, Ansible, Docker, Cloud, CI/CD, Terraform e Kubernetes.
+❤️️ Curiosidade: Além do meu trabalho, adoro pilotar minha moto, apreciar bons vinhos e degustar cafés especiais.
 
 <h3 align="left">GitHub Stats</h3>
 
