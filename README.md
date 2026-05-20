@@ -1,13 +1,32 @@
-# Olá!
+## Rafael Mota
 
-Sou Analista de Infraestrutura autodidata, apaixonado por Linux e automação.
+Analista de Infraestrutura em transição para DevOps, com 6 anos de experiência em ambientes Linux e Windows, automação, backup e monitoramento. Autodidata e em constante evolução.
 
-## Sobre mim
+## Stack atual
 
-Atualmente atuo como Analista de Infraestrutura de TI.  
+**Infraestrutura**
+Linux (Debian · Ubuntu · CentOS) · Windows Server · VMware ESXi · Active Directory
 
-Em constante aprimoramento nas áreas de Linux, Git, Vagrant, Ansible, Docker, Cloud, CI/CD, Terraform e Kubernetes.  
+**Containers & Orquestração**
+Docker · Docker Compose · Docker Swarm · Kubernetes (em aprendizado)
 
-<h3 align="left">GitHub Stats</h3>
+**Automação & IaC**
+Ansible · Bash · Vagrant · Terraform (em aprendizado)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmotadasilva&show_icons=true&theme=transparent)
+**Monitoramento**
+Zabbix · Grafana
+
+**Backup**
+Bacula Enterprise
+
+**Versionamento**
+Git · GitHub · GitLab
+
+**Cloud**
+AWS S3 · Azure (em aprendizado)
+
+## Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/rafaelmotadasilva](https://linkedin.com/in/rafaelmotadasilva)
+- GitHub: [github.com/rafaelmotadasilva](https://github.com/rafaelmotadasilva)
+- E-mail: devops.rafaelmota@gmail.com
