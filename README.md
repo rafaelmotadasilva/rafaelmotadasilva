@@ -13,11 +13,11 @@ Docker · Docker Compose · Docker Swarm · Kubernetes (em aprendizado)
 **Automação & IaC**
 Ansible · Bash · Vagrant · Terraform (em aprendizado)
 
-**Monitoramento**
-Zabbix · Grafana
+**Monitoramento & ITSM**
+Zabbix · Grafana · GLPI
 
 **Backup**
-Bacula Enterprise
+Bacula Community · Bacula Enterprise
 
 **Versionamento**
 Git · GitHub · GitLab
